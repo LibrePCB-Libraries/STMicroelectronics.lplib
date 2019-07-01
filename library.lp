@@ -1,6 +1,6 @@
 (librepcb_library 1fcb0725-d2e8-4f5d-892c-d1efb44d2963
  (name "ST Microelectronics")
- (description "Integrated circuits, sensors and more (inofficial).")
+ (description "Integrated circuits, sensors and more (unofficial).")
  (keywords "")
  (author "LibrePCB")
  (version "0.1.1")
