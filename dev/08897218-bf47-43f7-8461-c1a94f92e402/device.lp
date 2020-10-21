@@ -5,7 +5,7 @@
  (author "Danilo Bargen")
  (version "0.1")
  (created 2019-05-17T12:45:44Z)
- (deprecated false)
+ (deprecated true)
  (category 22151601-c2d9-419a-87bc-266f9c7c3459)
  (component 5ce5b8ff-9347-4726-896f-17e3b53144bf)
  (package d1944164-969d-421f-8b46-1e79fc368195)

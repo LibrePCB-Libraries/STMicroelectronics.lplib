@@ -5,7 +5,7 @@
  (author "U. Bruhin")
  (version "0.2")
  (created 2015-12-20T22:10:52Z)
- (deprecated false)
+ (deprecated true)
  (category 22151601-c2d9-419a-87bc-266f9c7c3459)
  (component e995a552-12c4-413a-8258-1d6ec9a8471d)
  (package 584b7c26-5a8e-4a2b-807a-977edd1df991)

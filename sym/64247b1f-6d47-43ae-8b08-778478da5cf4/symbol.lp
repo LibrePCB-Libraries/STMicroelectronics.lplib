@@ -5,7 +5,7 @@
  (author "Danilo Bargen")
  (version "0.1")
  (created 2019-05-17T12:48:32Z)
- (deprecated false)
+ (deprecated true)
  (category 22151601-c2d9-419a-87bc-266f9c7c3459)
  (pin 4576e488-3281-472e-be7a-8a505728d0b9 (name "BOOT0")
   (position -15.24 20.32) (rotation 0.0) (length 2.54)
